@@ -21,3 +21,7 @@ It is a Flight Track System Application that is written in Java.
 - There is button to set delay (min) to a flight.
 
 ## Screenshots
+<img src="img/1.png" width="430" height="255"> <img src="img/2.png" width="430" height="255">
+<br>
+<br>
+<img src="img/3.png" width="430" height="255"> <img src="img/4.png" width="430" height="255">
